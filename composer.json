@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mike42/escpos-php": "^3.0",
+        "z38/metzli": "^1.1",
+        "league/flysystem": "^1.0"
+    }
+}
